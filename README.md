@@ -65,3 +65,6 @@ Example
    - Prompt user for repayment amount.
    - Check if the repayment amount is valid.
    - Update balance and outstanding loan amount.
+
+
+[Source Code](https://github.com/nikola-chilingirov/bank_account_managment_sys/blob/main/bank_account_managment_sys.py)
